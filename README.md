@@ -1,4 +1,4 @@
-# Your First Frontend Project Starts Here
+# Your Fullstack Project Starts Here
 
 **Everything you need before you write your first line of code:** install Visual Studio Code, add the extensions that actually matter, and learn from the best free resources — in one place, in about 30 minutes.
 
